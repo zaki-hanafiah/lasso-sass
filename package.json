@@ -1,5 +1,5 @@
 {
-  "name": "lasso-sass",
+  "name": "@ringgitplus/lasso-sass",
   "description": "Lasso.js plugin to support compilation of sass dependencies",
   "keywords": [
     "lasso",
@@ -36,5 +36,5 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "version": "3.0.0"
+  "version": "3.0.1"
 }
