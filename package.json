@@ -20,9 +20,9 @@
   ],
   "maintainers": "Patrick Steele-Idem <pnidem@gmail.com>",
   "dependencies": {
-    "node-sass": "^4.14.1",
     "raptor-logging": "^1.0.1",
-    "raptor-util": "^1.0.0"
+    "raptor-util": "^1.0.0",
+    "sass": "^1.49.9"
   },
   "devDependencies": {
     "chai": "^3.5.0",
@@ -36,5 +36,5 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "version": "3.0.1"
+  "version": "4.0.0"
 }
